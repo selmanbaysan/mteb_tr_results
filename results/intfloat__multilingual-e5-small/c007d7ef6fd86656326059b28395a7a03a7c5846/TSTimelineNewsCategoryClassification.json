@@ -1,0 +1,73 @@
+{
+  "dataset_revision": "main",
+  "task_name": "TSTimelineNewsCategoryClassification",
+  "mteb_version": "1.31.3",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.603039,
+        "f1": 0.578448,
+        "f1_weighted": 0.578448,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.605882,
+            "f1": 0.577429,
+            "f1_weighted": 0.577429
+          },
+          {
+            "accuracy": 0.579412,
+            "f1": 0.55445,
+            "f1_weighted": 0.55445
+          },
+          {
+            "accuracy": 0.611275,
+            "f1": 0.588915,
+            "f1_weighted": 0.588915
+          },
+          {
+            "accuracy": 0.59951,
+            "f1": 0.568944,
+            "f1_weighted": 0.568944
+          },
+          {
+            "accuracy": 0.609804,
+            "f1": 0.585075,
+            "f1_weighted": 0.585075
+          },
+          {
+            "accuracy": 0.596569,
+            "f1": 0.566134,
+            "f1_weighted": 0.566134
+          },
+          {
+            "accuracy": 0.591667,
+            "f1": 0.573826,
+            "f1_weighted": 0.573826
+          },
+          {
+            "accuracy": 0.591667,
+            "f1": 0.575118,
+            "f1_weighted": 0.575118
+          },
+          {
+            "accuracy": 0.657353,
+            "f1": 0.629149,
+            "f1_weighted": 0.629149
+          },
+          {
+            "accuracy": 0.587255,
+            "f1": 0.565438,
+            "f1_weighted": 0.565438
+          }
+        ],
+        "main_score": 0.603039,
+        "hf_subset": "default",
+        "languages": [
+          "tur-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 19.552272081375122,
+  "kg_co2_emissions": null
+}
