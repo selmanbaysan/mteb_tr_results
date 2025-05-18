@@ -6,8 +6,8 @@
     "test": [
       {
         "accuracy": 0.62652,
-        "f1": 0.603575,
-        "f1_weighted": 0.603575,
+        "f1": 0.603566,
+        "f1_weighted": 0.603566,
         "scores_per_experiment": [
           {
             "accuracy": 0.62598,
@@ -36,8 +36,8 @@
           },
           {
             "accuracy": 0.6,
-            "f1": 0.567531,
-            "f1_weighted": 0.567531
+            "f1": 0.567444,
+            "f1_weighted": 0.567444
           },
           {
             "accuracy": 0.630882,
@@ -68,6 +68,6 @@
       }
     ]
   },
-  "evaluation_time": 22.532095193862915,
+  "evaluation_time": 7.804260969161987,
   "kg_co2_emissions": null
 }

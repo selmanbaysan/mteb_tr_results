@@ -22,7 +22,7 @@
         "manhattan_accuracy": 0.7265,
         "manhattan_accuracy_threshold": 13.65703,
         "manhattan_f1": 0.621517,
-        "manhattan_f1_threshold": 16.599239,
+        "manhattan_f1_threshold": 16.599237,
         "manhattan_precision": 0.505011,
         "manhattan_recall": 0.807898,
         "manhattan_ap": 0.600829,
@@ -53,6 +53,6 @@
       }
     ]
   },
-  "evaluation_time": 19.481786251068115,
+  "evaluation_time": 9.658755540847778,
   "kg_co2_emissions": null
 }

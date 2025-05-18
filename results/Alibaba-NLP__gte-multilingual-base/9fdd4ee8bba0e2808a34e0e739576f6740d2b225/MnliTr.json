@@ -22,7 +22,7 @@
         "manhattan_accuracy": 0.725,
         "manhattan_accuracy_threshold": 13.294924,
         "manhattan_f1": 0.611807,
-        "manhattan_f1_threshold": 15.888214,
+        "manhattan_f1_threshold": 15.888212,
         "manhattan_precision": 0.522829,
         "manhattan_recall": 0.737281,
         "manhattan_ap": 0.640915,
@@ -39,13 +39,13 @@
         "dot_f1_threshold": 0.732747,
         "dot_precision": 0.530004,
         "dot_recall": 0.726071,
-        "dot_ap": 0.64152,
+        "dot_ap": 0.641519,
         "max_accuracy": 0.725,
         "max_f1": 0.612735,
         "max_precision": 0.530004,
         "max_recall": 0.737281,
-        "max_ap": 0.64152,
-        "main_score": 0.64152,
+        "max_ap": 0.641519,
+        "main_score": 0.641519,
         "hf_subset": "default",
         "languages": [
           "tur-Latn"
@@ -69,9 +69,9 @@
         "cosine_recall": 0.76119,
         "cosine_ap": 0.666103,
         "manhattan_accuracy": 0.7402,
-        "manhattan_accuracy_threshold": 12.60458,
+        "manhattan_accuracy_threshold": 12.604579,
         "manhattan_f1": 0.63311,
-        "manhattan_f1_threshold": 15.03711,
+        "manhattan_f1_threshold": 15.037113,
         "manhattan_precision": 0.563231,
         "manhattan_recall": 0.722784,
         "manhattan_ap": 0.66572,
@@ -102,6 +102,6 @@
       }
     ]
   },
-  "evaluation_time": 58.24398946762085,
+  "evaluation_time": 26.417393922805786,
   "kg_co2_emissions": null
 }

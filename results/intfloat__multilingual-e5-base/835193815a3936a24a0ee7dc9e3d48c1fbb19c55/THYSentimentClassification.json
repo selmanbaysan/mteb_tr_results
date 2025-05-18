@@ -5,9 +5,9 @@
   "scores": {
     "test": [
       {
-        "accuracy": 0.626309,
-        "f1": 0.500777,
-        "f1_weighted": 0.660604,
+        "accuracy": 0.626288,
+        "f1": 0.500764,
+        "f1_weighted": 0.660583,
         "scores_per_experiment": [
           {
             "accuracy": 0.543348,
@@ -20,9 +20,9 @@
             "f1_weighted": 0.67919
           },
           {
-            "accuracy": 0.621245,
-            "f1": 0.496992,
-            "f1_weighted": 0.661777
+            "accuracy": 0.62103,
+            "f1": 0.496854,
+            "f1_weighted": 0.66157
           },
           {
             "accuracy": 0.682403,
@@ -60,7 +60,7 @@
             "f1_weighted": 0.617276
           }
         ],
-        "main_score": 0.626309,
+        "main_score": 0.626288,
         "hf_subset": "default",
         "languages": [
           "tur-Latn"
@@ -68,6 +68,6 @@
       }
     ]
   },
-  "evaluation_time": 28.691639184951782,
+  "evaluation_time": 12.788776636123657,
   "kg_co2_emissions": null
 }

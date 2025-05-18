@@ -20,16 +20,16 @@
         "cosine_recall": 0.823634,
         "cosine_ap": 0.558428,
         "manhattan_accuracy": 0.7047,
-        "manhattan_accuracy_threshold": 10.564872,
+        "manhattan_accuracy_threshold": 10.56487,
         "manhattan_f1": 0.589826,
-        "manhattan_f1_threshold": 13.405899,
+        "manhattan_f1_threshold": 13.4059,
         "manhattan_precision": 0.461849,
         "manhattan_recall": 0.815914,
-        "manhattan_ap": 0.556784,
+        "manhattan_ap": 0.556785,
         "euclidean_accuracy": 0.7052,
         "euclidean_accuracy_threshold": 0.41508,
         "euclidean_f1": 0.592292,
-        "euclidean_f1_threshold": 0.528426,
+        "euclidean_f1_threshold": 0.528425,
         "euclidean_precision": 0.46241,
         "euclidean_recall": 0.823634,
         "euclidean_ap": 0.558428,
@@ -53,6 +53,6 @@
       }
     ]
   },
-  "evaluation_time": 45.26662516593933,
+  "evaluation_time": 21.336632251739502,
   "kg_co2_emissions": null
 }

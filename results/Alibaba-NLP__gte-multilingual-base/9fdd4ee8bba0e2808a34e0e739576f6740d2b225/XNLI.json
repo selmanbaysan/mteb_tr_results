@@ -20,9 +20,9 @@
         "cosine_recall": 0.844575,
         "cosine_ap": 0.757285,
         "manhattan_accuracy": 0.693773,
-        "manhattan_accuracy_threshold": 16.828749,
+        "manhattan_accuracy_threshold": 16.828747,
         "manhattan_f1": 0.723904,
-        "manhattan_f1_threshold": 18.33036,
+        "manhattan_f1_threshold": 18.330359,
         "manhattan_precision": 0.6254,
         "manhattan_recall": 0.859238,
         "manhattan_ap": 0.757387,
@@ -69,9 +69,9 @@
         "cosine_recall": 0.778592,
         "cosine_ap": 0.774476,
         "manhattan_accuracy": 0.710623,
-        "manhattan_accuracy_threshold": 16.298363,
+        "manhattan_accuracy_threshold": 16.298359,
         "manhattan_f1": 0.725115,
-        "manhattan_f1_threshold": 17.661629,
+        "manhattan_f1_threshold": 17.661633,
         "manhattan_precision": 0.658683,
         "manhattan_recall": 0.806452,
         "manhattan_ap": 0.774182,
@@ -102,6 +102,6 @@
       }
     ]
   },
-  "evaluation_time": 10.571037530899048,
+  "evaluation_time": 4.384944200515747,
   "kg_co2_emissions": null
 }

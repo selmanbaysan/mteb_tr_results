@@ -11,7 +11,7 @@
         "similarity_f1_threshold": 0.864106,
         "similarity_precision": 0.473055,
         "similarity_recall": 0.740202,
-        "similarity_ap": 0.539762,
+        "similarity_ap": 0.539763,
         "cosine_accuracy": 0.6979,
         "cosine_accuracy_threshold": 0.910232,
         "cosine_f1": 0.577217,
@@ -20,14 +20,14 @@
         "cosine_recall": 0.740202,
         "cosine_ap": 0.539762,
         "manhattan_accuracy": 0.6967,
-        "manhattan_accuracy_threshold": 9.277098,
+        "manhattan_accuracy_threshold": 9.277095,
         "manhattan_f1": 0.576004,
-        "manhattan_f1_threshold": 11.72784,
+        "manhattan_f1_threshold": 11.727839,
         "manhattan_precision": 0.456696,
         "manhattan_recall": 0.779691,
         "manhattan_ap": 0.538056,
         "euclidean_accuracy": 0.6979,
-        "euclidean_accuracy_threshold": 0.423717,
+        "euclidean_accuracy_threshold": 0.423716,
         "euclidean_f1": 0.577217,
         "euclidean_f1_threshold": 0.521334,
         "euclidean_precision": 0.473055,
@@ -39,13 +39,13 @@
         "dot_f1_threshold": 0.864106,
         "dot_precision": 0.473055,
         "dot_recall": 0.740202,
-        "dot_ap": 0.539762,
+        "dot_ap": 0.539763,
         "max_accuracy": 0.6979,
         "max_f1": 0.577217,
         "max_precision": 0.473055,
         "max_recall": 0.779691,
-        "max_ap": 0.539762,
-        "main_score": 0.539762,
+        "max_ap": 0.539763,
+        "main_score": 0.539763,
         "hf_subset": "default",
         "languages": [
           "tur-Latn"
@@ -53,6 +53,6 @@
       }
     ]
   },
-  "evaluation_time": 16.981680870056152,
+  "evaluation_time": 7.319134950637817,
   "kg_co2_emissions": null
 }
