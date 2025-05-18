@@ -1,0 +1,26 @@
+{
+  "dataset_revision": "main",
+  "task_name": "STSbTR",
+  "mteb_version": "1.31.3",
+  "scores": {
+    "test": [
+      {
+        "pearson": 0.781416,
+        "spearman": 0.784399,
+        "cosine_pearson": 0.781416,
+        "cosine_spearman": 0.784401,
+        "manhattan_pearson": 0.772718,
+        "manhattan_spearman": 0.772842,
+        "euclidean_pearson": 0.773967,
+        "euclidean_spearman": 0.774132,
+        "main_score": 0.784401,
+        "hf_subset": "default",
+        "languages": [
+          "tur-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 1.7595531940460205,
+  "kg_co2_emissions": null
+}
