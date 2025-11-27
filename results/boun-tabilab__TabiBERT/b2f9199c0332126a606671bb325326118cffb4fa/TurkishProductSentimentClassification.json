@@ -1,0 +1,95 @@
+{
+  "dataset_revision": "ad861e463abda351ff65ca5ac0cc5985afe9eb99",
+  "task_name": "TurkishProductSentimentClassification",
+  "mteb_version": "1.31.3",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.56275,
+        "f1": 0.559843,
+        "f1_weighted": 0.559843,
+        "ap": 0.537454,
+        "ap_weighted": 0.537454,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.47,
+            "f1": 0.453746,
+            "f1_weighted": 0.453746,
+            "ap": 0.486374,
+            "ap_weighted": 0.486374
+          },
+          {
+            "accuracy": 0.6025,
+            "f1": 0.602199,
+            "f1_weighted": 0.602199,
+            "ap": 0.562368,
+            "ap_weighted": 0.562368
+          },
+          {
+            "accuracy": 0.58,
+            "f1": 0.578353,
+            "f1_weighted": 0.578353,
+            "ap": 0.547314,
+            "ap_weighted": 0.547314
+          },
+          {
+            "accuracy": 0.60125,
+            "f1": 0.598084,
+            "f1_weighted": 0.598084,
+            "ap": 0.559331,
+            "ap_weighted": 0.559331
+          },
+          {
+            "accuracy": 0.50625,
+            "f1": 0.50495,
+            "f1_weighted": 0.50495,
+            "ap": 0.503169,
+            "ap_weighted": 0.503169
+          },
+          {
+            "accuracy": 0.5625,
+            "f1": 0.562169,
+            "f1_weighted": 0.562169,
+            "ap": 0.534953,
+            "ap_weighted": 0.534953
+          },
+          {
+            "accuracy": 0.61,
+            "f1": 0.604773,
+            "f1_weighted": 0.604773,
+            "ap": 0.570714,
+            "ap_weighted": 0.570714
+          },
+          {
+            "accuracy": 0.58375,
+            "f1": 0.583406,
+            "f1_weighted": 0.583406,
+            "ap": 0.548508,
+            "ap_weighted": 0.548508
+          },
+          {
+            "accuracy": 0.56375,
+            "f1": 0.563389,
+            "f1_weighted": 0.563389,
+            "ap": 0.535718,
+            "ap_weighted": 0.535718
+          },
+          {
+            "accuracy": 0.5475,
+            "f1": 0.547361,
+            "f1_weighted": 0.547361,
+            "ap": 0.526088,
+            "ap_weighted": 0.526088
+          }
+        ],
+        "main_score": 0.56275,
+        "hf_subset": "default",
+        "languages": [
+          "tur-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 7.7323853969573975,
+  "kg_co2_emissions": null
+}
