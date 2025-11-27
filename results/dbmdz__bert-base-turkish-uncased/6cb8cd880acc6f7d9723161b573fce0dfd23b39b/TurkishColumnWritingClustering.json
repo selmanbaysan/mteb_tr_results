@@ -5,21 +5,21 @@
   "scores": {
     "test": [
       {
-        "v_measure": 0.669782,
-        "v_measure_std": 0.027552,
+        "v_measure": 0.670111,
+        "v_measure_std": 0.02773,
         "v_measures": [
           0.672173,
           0.679398,
           0.682741,
           0.624283,
           0.692786,
-          0.683236,
+          0.686529,
           0.686284,
           0.665572,
           0.61176,
           0.699585
         ],
-        "main_score": 0.669782,
+        "main_score": 0.670111,
         "hf_subset": "default",
         "languages": [
           "tur-Latn"
@@ -27,6 +27,6 @@
       }
     ]
   },
-  "evaluation_time": 8.992577075958252,
+  "evaluation_time": 18.366077423095703,
   "kg_co2_emissions": null
 }

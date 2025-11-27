@@ -80,7 +80,7 @@
         "nauc_map_at_100_std": -0.023768,
         "nauc_map_at_100_diff1": 0.290209,
         "nauc_map_at_1000_max": 0.217173,
-        "nauc_map_at_1000_std": -0.02393,
+        "nauc_map_at_1000_std": -0.023931,
         "nauc_map_at_1000_diff1": 0.290317,
         "nauc_recall_at_1_max": 0.238163,
         "nauc_recall_at_1_std": -0.045504,
@@ -143,7 +143,7 @@
         "nauc_mrr_at_100_std": -0.023768,
         "nauc_mrr_at_100_diff1": 0.290209,
         "nauc_mrr_at_1000_max": 0.217173,
-        "nauc_mrr_at_1000_std": -0.02393,
+        "nauc_mrr_at_1000_std": -0.023931,
         "nauc_mrr_at_1000_diff1": 0.290317,
         "main_score": 0.23358,
         "hf_subset": "default",
@@ -153,6 +153,6 @@
       }
     ]
   },
-  "evaluation_time": 10.980016708374023,
+  "evaluation_time": 19.147571325302124,
   "kg_co2_emissions": null
 }

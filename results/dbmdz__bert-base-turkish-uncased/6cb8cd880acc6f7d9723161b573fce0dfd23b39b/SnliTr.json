@@ -15,19 +15,19 @@
         "cosine_accuracy": 0.6659,
         "cosine_accuracy_threshold": 0.90463,
         "cosine_f1": 0.507446,
-        "cosine_f1_threshold": 0.692882,
+        "cosine_f1_threshold": 0.692883,
         "cosine_precision": 0.347402,
         "cosine_recall": 0.940914,
         "cosine_ap": 0.416066,
         "manhattan_accuracy": 0.6646,
-        "manhattan_accuracy_threshold": 94.294014,
+        "manhattan_accuracy_threshold": 94.294022,
         "manhattan_f1": 0.505986,
-        "manhattan_f1_threshold": 304.393982,
+        "manhattan_f1_threshold": 304.393921,
         "manhattan_precision": 0.339674,
         "manhattan_recall": 0.99139,
         "manhattan_ap": 0.402676,
         "euclidean_accuracy": 0.6646,
-        "euclidean_accuracy_threshold": 4.268143,
+        "euclidean_accuracy_threshold": 4.268145,
         "euclidean_f1": 0.506843,
         "euclidean_f1_threshold": 13.702885,
         "euclidean_precision": 0.340658,
@@ -39,13 +39,13 @@
         "dot_f1_threshold": 179.596741,
         "dot_precision": 0.375693,
         "dot_recall": 0.825119,
-        "dot_ap": 0.429845,
+        "dot_ap": 0.429846,
         "max_accuracy": 0.6669,
         "max_f1": 0.516303,
         "max_precision": 0.375693,
         "max_recall": 0.99139,
-        "max_ap": 0.429845,
-        "main_score": 0.429845,
+        "max_ap": 0.429846,
+        "main_score": 0.429846,
         "hf_subset": "default",
         "languages": [
           "tur-Latn"
@@ -53,6 +53,6 @@
       }
     ]
   },
-  "evaluation_time": 7.288850545883179,
+  "evaluation_time": 18.806562662124634,
   "kg_co2_emissions": null
 }
