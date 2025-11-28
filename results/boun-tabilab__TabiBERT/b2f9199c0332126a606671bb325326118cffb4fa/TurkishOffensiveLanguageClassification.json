@@ -5,11 +5,11 @@
   "scores": {
     "test": [
       {
-        "accuracy": 0.630782,
-        "f1": 0.550612,
-        "f1_weighted": 0.660521,
-        "ap": 0.248359,
-        "ap_weighted": 0.248359,
+        "accuracy": 0.630725,
+        "f1": 0.550544,
+        "f1_weighted": 0.660469,
+        "ap": 0.248308,
+        "ap_weighted": 0.248308,
         "scores_per_experiment": [
           {
             "accuracy": 0.644381,
@@ -40,18 +40,18 @@
             "ap_weighted": 0.234914
           },
           {
-            "accuracy": 0.619915,
-            "f1": 0.557403,
-            "f1_weighted": 0.656447,
-            "ap": 0.254771,
-            "ap_weighted": 0.254771
+            "accuracy": 0.61963,
+            "f1": 0.557182,
+            "f1_weighted": 0.6562,
+            "ap": 0.254654,
+            "ap_weighted": 0.254654
           },
           {
-            "accuracy": 0.621337,
-            "f1": 0.549698,
-            "f1_weighted": 0.656646,
-            "ap": 0.244407,
-            "ap_weighted": 0.244407
+            "accuracy": 0.621053,
+            "f1": 0.549238,
+            "f1_weighted": 0.656371,
+            "ap": 0.244017,
+            "ap_weighted": 0.244017
           },
           {
             "accuracy": 0.705548,
@@ -82,7 +82,7 @@
             "ap_weighted": 0.252012
           }
         ],
-        "main_score": 0.630782,
+        "main_score": 0.630725,
         "hf_subset": "default",
         "languages": [
           "tur-Latn"
@@ -90,6 +90,6 @@
       }
     ]
   },
-  "evaluation_time": 19.653602123260498,
+  "evaluation_time": 17.54955792427063,
   "kg_co2_emissions": null
 }

@@ -5,12 +5,12 @@
   "scores": {
     "test": [
       {
-        "v_measure": 0.50897,
-        "v_measure_std": 0.012576,
+        "v_measure": 0.509139,
+        "v_measure_std": 0.01237,
         "v_measures": [
           0.515608,
           0.529205,
-          0.493029,
+          0.494718,
           0.500204,
           0.50857,
           0.515516,
@@ -19,7 +19,7 @@
           0.516143,
           0.503257
         ],
-        "main_score": 0.50897,
+        "main_score": 0.509139,
         "hf_subset": "default",
         "languages": [
           "tur-Latn"
@@ -27,6 +27,6 @@
       }
     ]
   },
-  "evaluation_time": 242.91589403152466,
+  "evaluation_time": 169.17536807060242,
   "kg_co2_emissions": null
 }

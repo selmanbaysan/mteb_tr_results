@@ -6,13 +6,13 @@
     "test": [
       {
         "pearson": 0.484667,
-        "spearman": 0.507208,
+        "spearman": 0.507206,
         "cosine_pearson": 0.484667,
         "cosine_spearman": 0.507209,
         "manhattan_pearson": 0.510884,
-        "manhattan_spearman": 0.512692,
+        "manhattan_spearman": 0.512693,
         "euclidean_pearson": 0.503898,
-        "euclidean_spearman": 0.507962,
+        "euclidean_spearman": 0.507961,
         "main_score": 0.507209,
         "hf_subset": "default",
         "languages": [
@@ -21,6 +21,6 @@
       }
     ]
   },
-  "evaluation_time": 5.522716283798218,
+  "evaluation_time": 9.001617670059204,
   "kg_co2_emissions": null
 }

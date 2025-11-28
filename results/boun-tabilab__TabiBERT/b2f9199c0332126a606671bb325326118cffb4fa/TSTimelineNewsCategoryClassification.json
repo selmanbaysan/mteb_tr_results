@@ -5,49 +5,49 @@
   "scores": {
     "test": [
       {
-        "accuracy": 0.566863,
-        "f1": 0.570265,
-        "f1_weighted": 0.570265,
+        "accuracy": 0.56701,
+        "f1": 0.570533,
+        "f1_weighted": 0.570533,
         "scores_per_experiment": [
           {
-            "accuracy": 0.542647,
-            "f1": 0.554232,
-            "f1_weighted": 0.554232
+            "accuracy": 0.542157,
+            "f1": 0.554073,
+            "f1_weighted": 0.554073
           },
           {
-            "accuracy": 0.55,
-            "f1": 0.555498,
-            "f1_weighted": 0.555498
+            "accuracy": 0.55098,
+            "f1": 0.556407,
+            "f1_weighted": 0.556407
           },
           {
-            "accuracy": 0.509804,
-            "f1": 0.518431,
-            "f1_weighted": 0.518431
+            "accuracy": 0.508824,
+            "f1": 0.517417,
+            "f1_weighted": 0.517417
           },
           {
-            "accuracy": 0.603922,
-            "f1": 0.597292,
-            "f1_weighted": 0.597292
+            "accuracy": 0.604412,
+            "f1": 0.598026,
+            "f1_weighted": 0.598026
           },
           {
             "accuracy": 0.588725,
-            "f1": 0.587796,
-            "f1_weighted": 0.587796
+            "f1": 0.5878,
+            "f1_weighted": 0.5878
           },
           {
             "accuracy": 0.542647,
-            "f1": 0.539295,
-            "f1_weighted": 0.539295
+            "f1": 0.539253,
+            "f1_weighted": 0.539253
           },
           {
-            "accuracy": 0.566667,
-            "f1": 0.582054,
-            "f1_weighted": 0.582054
+            "accuracy": 0.567647,
+            "f1": 0.583271,
+            "f1_weighted": 0.583271
           },
           {
-            "accuracy": 0.588235,
-            "f1": 0.588349,
-            "f1_weighted": 0.588349
+            "accuracy": 0.588725,
+            "f1": 0.589279,
+            "f1_weighted": 0.589279
           },
           {
             "accuracy": 0.615686,
@@ -56,11 +56,11 @@
           },
           {
             "accuracy": 0.560294,
-            "f1": 0.56792,
-            "f1_weighted": 0.56792
+            "f1": 0.568025,
+            "f1_weighted": 0.568025
           }
         ],
-        "main_score": 0.566863,
+        "main_score": 0.56701,
         "hf_subset": "default",
         "languages": [
           "tur-Latn"
@@ -68,6 +68,6 @@
       }
     ]
   },
-  "evaluation_time": 26.883681058883667,
+  "evaluation_time": 21.320115566253662,
   "kg_co2_emissions": null
 }
